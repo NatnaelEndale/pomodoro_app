@@ -21,10 +21,10 @@ A simple and elegant Pomodoro Timer built with Python and Tkinter to boost produ
 - Tkinter (GUI)
 
 ## 📂 Project Structure
-.\b
-├── main.py\b
-├── tomato3.png\b
-└── README.md\b
+.\<br/>
+├── main.py<br/>
+├── tomato3.png<br/>
+└── README.md<br/>
 
 
 ## ▶️ How to Run
